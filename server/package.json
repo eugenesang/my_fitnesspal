@@ -1,0 +1,22 @@
+{
+  "name": "my_fitness-pal",
+  "version": "1.0.0",
+  "description": "Fitness app backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenesang/my_fitnesspal.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "Eugene Sang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eugenesang/my_fitnesspal/issues"
+  },
+  "homepage": "https://github.com/eugenesang/my_fitnesspal#readme"
+}
