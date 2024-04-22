@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/eugenesang/my_fitnesspal/issues"
   },
-  "homepage": "https://github.com/eugenesang/my_fitnesspal#readme"
+  "homepage": "https://github.com/eugenesang/my_fitnesspal#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.2"
+  }
 }
