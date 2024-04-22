@@ -5,6 +5,7 @@ const exerciseData = require('../data').data;
 const router = express.Router();
 
 router.get('/bodyPart/:bodyPart', (req, res) => {
+    console.log(req.params);
     try {
         const data = exerciseData[req.params.bodyPart];
 
